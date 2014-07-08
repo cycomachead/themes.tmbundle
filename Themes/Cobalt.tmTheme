@@ -559,8 +559,6 @@
 			<string>markup.heading</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#001221</string>
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
